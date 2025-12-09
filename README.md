@@ -18,7 +18,7 @@
 > A curated list of FREE AI RESOURCES for aspiring AI Engineers
 
 <hr />
-<a href="http://saeed.js.org"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
+<a href="https://dasarijashwanth.github.io/Portfolio-Website-1"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
 <a href="https://twitter.com/DasariJashwant4">
 <img src="https://img.shields.io/twitter/follow/dasarijashwanth?label=Follow&style=social" alt="Twitter Badge"/>
 </a>
